@@ -19,6 +19,9 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
     private JButton btnTransformacionBlancoNegro = new JButton("Blanco y Negro");
     private JButton btnImagenOriginal = new JButton("Imagen Original");
     private JButton btnTransformacionTonosGrises = new JButton("Tonos Grises");
+    private JButton btnTransformacionFiltroRojo = new JButton("Filtro Rojo");
+    private JButton btnTransformacionFiltroVerde = new JButton("Filtro Verde");
+    private JButton btnTransformacionFiltroAzul = new JButton("Filtro Azul");
 
     private Point punto1;
     private Point punto2;
@@ -40,7 +43,7 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
     public void init1() {
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         setLayout(null);
-        setSize(250, 600);
+        setSize(250, 500);
         setLocationRelativeTo(null);
         setVisible(true);
 
@@ -49,25 +52,31 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
         panel.setLayout(null);
         panel.setVisible(true);
 
-        int x = 25;
+        int x = 45;
         int y = 10;
         lbEfectos.setFont(new Font("Arial", Font.BOLD, 20));
-        lbEfectos.setHorizontalTextPosition(SwingConstants.CENTER);
-        lbEfectos.setBounds(x, y, 100, 50);
-        y += 60;
-        btnTransformacionVertical.setBounds(x, y, 100, 50);
-        y += 60;
-        btnTransformacionHorizontal.setBounds(x, y, 150, 50);
-        y += 60;
-        btnTransformacionPixelado.setBounds(x,y,150,50);
-        y += 60;
-        btnTransformacionSuavizado.setBounds(x,y,150,50);
-        y += 60;
-        btnTransformacionBlancoNegro.setBounds(x,y,150,50);
-        y += 60;
-        btnTransformacionTonosGrises.setBounds(x,y,150,50);
-        y += 60;
-        btnImagenOriginal.setBounds(x, y, 100, 50);
+        lbEfectos.setHorizontalAlignment(SwingConstants.CENTER);
+        lbEfectos.setBounds(x, y, 150, 50);
+        y += 50;
+        btnTransformacionVertical.setBounds(x, y, 150, 30);
+        y += 40;
+        btnTransformacionHorizontal.setBounds(x, y, 150, 30);
+        y += 40;
+        btnTransformacionPixelado.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionSuavizado.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionBlancoNegro.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionTonosGrises.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionFiltroRojo.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionFiltroVerde.setBounds(x,y,150,30);
+        y += 40;
+        btnTransformacionFiltroAzul.setBounds(x,y,150,30);
+        y += 40;
+        btnImagenOriginal.setBounds(x, y, 150, 30);
 
         btnImagenOriginal.addActionListener(this);
         btnTransformacionBlancoNegro.addActionListener(this);
@@ -76,6 +85,9 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
         btnTransformacionPixelado.addActionListener(this);
         btnTransformacionSuavizado.addActionListener(this);
         btnTransformacionTonosGrises.addActionListener(this);
+        btnTransformacionFiltroRojo.addActionListener(this);
+        btnTransformacionFiltroVerde.addActionListener(this);
+        btnTransformacionFiltroAzul.addActionListener(this);
 
         panel.add(lbEfectos);
         panel.add(btnTransformacionVertical);
@@ -85,6 +97,9 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
         panel.add(btnTransformacionSuavizado);
         panel.add(btnTransformacionBlancoNegro);
         panel.add(btnTransformacionTonosGrises);
+        panel.add(btnTransformacionFiltroRojo);
+        panel.add(btnTransformacionFiltroAzul);
+        panel.add(btnTransformacionFiltroVerde);
 
         this.add(panel, BorderLayout.CENTER);
     }
@@ -112,8 +127,9 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
 
         } else if (e.getSource() == btnTransformacionSuavizado){
 
-            TransformacionSuavizado transformacionSuavizado = new TransformacionSuavizado(img);
-            transformacionSuavizado.transformar(punto1,punto2);
+            JOptionPane.showMessageDialog(null,"Este filtro está en construcción");
+//            TransformacionSuavizado transformacionSuavizado = new TransformacionSuavizado(img);
+//            transformacionSuavizado.transformar(punto1,punto2);
 
         } else if (e.getSource() == btnTransformacionBlancoNegro){
 
@@ -124,6 +140,21 @@ public class FrameTransformaciones extends JFrame implements ActionListener {
 
             TransformacionTonosGris transformacionTonosGris = new TransformacionTonosGris(img);
             transformacionTonosGris.transformar(punto1,punto2);
+
+        } else if (e.getSource() == btnTransformacionFiltroRojo){
+
+            TransformarFiltroRojo transformarFiltroRojo = new TransformarFiltroRojo(img);
+            transformarFiltroRojo.transformar(punto1,punto2);
+
+        } else if (e.getSource() == btnTransformacionFiltroVerde){
+
+            TransformacionFiltroVerde transformacionFiltroVerde = new TransformacionFiltroVerde(img);
+            transformacionFiltroVerde.transformar(punto1,punto2);
+
+        } else if (e.getSource() == btnTransformacionFiltroAzul){
+
+            TransformacionFiltroAzul transformacionFiltroAzul = new TransformacionFiltroAzul(img);
+            transformacionFiltroAzul.transformar(punto1,punto2);
 
         }
     }
