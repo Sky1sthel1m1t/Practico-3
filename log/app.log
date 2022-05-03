@@ -1,0 +1,410 @@
+[ INFO] - :115 2022-05-02 10:01:57 - Se hizo click en la posicion: 148 , 235
+[ INFO] - :128 2022-05-02 10:02:00 - Se solto el click en la posicion: 226 , 305
+[DEBUG] - :52 2022-05-02 10:02:07 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :115 2022-05-02 10:02:07 - Se hizo click en la posicion: 121 , 136
+[ INFO] - :128 2022-05-02 10:02:09 - Se solto el click en la posicion: 203 , 203
+[DEBUG] - :52 2022-05-02 10:03:34 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :115 2022-05-02 10:03:36 - Se hizo click en la posicion: 156 , 149
+[ INFO] - :128 2022-05-02 10:03:39 - Se solto el click en la posicion: 239 , 224
+[DEBUG] - :52 2022-05-02 10:13:26 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :127 2022-05-02 10:13:28 - Se hizo click en la posicion: 154 , 131
+[ INFO] - :140 2022-05-02 10:13:31 - Se solto el click en la posicion: 247 , 195
+[DEBUG] - :52 2022-05-02 10:13:45 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :127 2022-05-02 10:13:46 - Se hizo click en la posicion: 143 , 149
+[ INFO] - :140 2022-05-02 10:13:48 - Se solto el click en la posicion: 222 , 207
+[DEBUG] - :52 2022-05-02 10:15:18 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :115 2022-05-02 10:15:20 - Se hizo click en la posicion: 164 , 142
+[ INFO] - :128 2022-05-02 10:15:21 - Se solto el click en la posicion: 262 , 222
+[ INFO] - :115 2022-05-02 10:15:23 - Se hizo click en la posicion: 359 , 89
+[ INFO] - :128 2022-05-02 10:15:24 - Se solto el click en la posicion: 450 , 217
+[ INFO] - :115 2022-05-02 10:15:25 - Se hizo click en la posicion: 104 , 97
+[ INFO] - :128 2022-05-02 10:15:27 - Se solto el click en la posicion: 246 , 154
+[ INFO] - :115 2022-05-02 10:15:30 - Se hizo click en la posicion: 222 , 95
+[ INFO] - :128 2022-05-02 10:15:31 - Se solto el click en la posicion: 310 , 131
+[DEBUG] - :52 2022-05-02 10:20:19 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :121 2022-05-02 10:20:19 - Se hizo click en la posicion: 232 , 125
+[ INFO] - :134 2022-05-02 10:20:19 - Se solto el click en la posicion: 232 , 125
+[ INFO] - :74 2022-05-02 10:20:19 - Se hizo una linea que desde el punto (232 , 125) hasta el punto (232 , 125)
+[ INFO] - :76 2022-05-02 10:20:19 - Se hizo una linea que desde el punto (232 , 125) hasta el punto (232 , 125)
+[ INFO] - :78 2022-05-02 10:20:19 - Se hizo una linea que desde el punto (232 , 125) hasta el punto (232 , 125)
+[ INFO] - :80 2022-05-02 10:20:19 - Se hizo una linea que desde el punto (232 , 125) hasta el punto (232 , 125)
+[ INFO] - :121 2022-05-02 10:20:24 - Se hizo click en la posicion: 129 , 129
+[ INFO] - :134 2022-05-02 10:20:26 - Se solto el click en la posicion: 233 , 218
+[ INFO] - :74 2022-05-02 10:20:26 - Se hizo una linea que desde el punto (129 , 129) hasta el punto (233 , 129)
+[ INFO] - :76 2022-05-02 10:20:26 - Se hizo una linea que desde el punto (233 , 129) hasta el punto (233 , 218)
+[ INFO] - :78 2022-05-02 10:20:26 - Se hizo una linea que desde el punto (233 , 218) hasta el punto (129 , 218)
+[ INFO] - :80 2022-05-02 10:20:26 - Se hizo una linea que desde el punto (129 , 218) hasta el punto (129 , 129)
+[ INFO] - :121 2022-05-02 10:21:42 - Se hizo click en la posicion: 192 , 172
+[ INFO] - :134 2022-05-02 10:21:43 - Se solto el click en la posicion: 254 , 231
+[ INFO] - :74 2022-05-02 10:21:43 - Se hizo una linea que desde el punto (192 , 172) hasta el punto (254 , 172)
+[ INFO] - :76 2022-05-02 10:21:43 - Se hizo una linea que desde el punto (254 , 172) hasta el punto (254 , 231)
+[ INFO] - :78 2022-05-02 10:21:43 - Se hizo una linea que desde el punto (254 , 231) hasta el punto (192 , 231)
+[ INFO] - :80 2022-05-02 10:21:43 - Se hizo una linea que desde el punto (192 , 231) hasta el punto (192 , 172)
+[ INFO] - :121 2022-05-02 10:21:45 - Se hizo click en la posicion: 298 , 136
+[ INFO] - :134 2022-05-02 10:21:46 - Se solto el click en la posicion: 345 , 192
+[ INFO] - :74 2022-05-02 10:21:46 - Se hizo una linea que desde el punto (298 , 136) hasta el punto (345 , 136)
+[ INFO] - :76 2022-05-02 10:21:46 - Se hizo una linea que desde el punto (345 , 136) hasta el punto (345 , 192)
+[ INFO] - :78 2022-05-02 10:21:46 - Se hizo una linea que desde el punto (345 , 192) hasta el punto (298 , 192)
+[ INFO] - :80 2022-05-02 10:21:46 - Se hizo una linea que desde el punto (298 , 192) hasta el punto (298 , 136)
+[ INFO] - :121 2022-05-02 10:21:51 - Se hizo click en la posicion: 88 , 146
+[ INFO] - :134 2022-05-02 10:21:52 - Se solto el click en la posicion: 186 , 239
+[ INFO] - :74 2022-05-02 10:21:52 - Se hizo una linea que desde el punto (88 , 146) hasta el punto (186 , 146)
+[ INFO] - :76 2022-05-02 10:21:52 - Se hizo una linea que desde el punto (186 , 146) hasta el punto (186 , 239)
+[ INFO] - :78 2022-05-02 10:21:52 - Se hizo una linea que desde el punto (186 , 239) hasta el punto (88 , 239)
+[ INFO] - :80 2022-05-02 10:21:52 - Se hizo una linea que desde el punto (88 , 239) hasta el punto (88 , 146)
+[ INFO] - :121 2022-05-02 10:21:54 - Se hizo click en la posicion: 293 , 236
+[ INFO] - :134 2022-05-02 10:21:55 - Se solto el click en la posicion: 334 , 297
+[ INFO] - :74 2022-05-02 10:21:55 - Se hizo una linea que desde el punto (293 , 236) hasta el punto (334 , 236)
+[ INFO] - :76 2022-05-02 10:21:55 - Se hizo una linea que desde el punto (334 , 236) hasta el punto (334 , 297)
+[ INFO] - :78 2022-05-02 10:21:55 - Se hizo una linea que desde el punto (334 , 297) hasta el punto (293 , 297)
+[ INFO] - :80 2022-05-02 10:21:55 - Se hizo una linea que desde el punto (293 , 297) hasta el punto (293 , 236)
+[DEBUG] - :52 2022-05-02 10:24:56 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :121 2022-05-02 10:24:58 - Se hizo click en la posicion: 77 , 94
+[ INFO] - :134 2022-05-02 10:25:00 - Se solto el click en la posicion: 137 , 153
+[ INFO] - :74 2022-05-02 10:25:00 - Se hizo una linea que desde el punto (137 , 153) hasta el punto (137 , 94)
+[ INFO] - :76 2022-05-02 10:25:00 - Se hizo una linea que desde el punto (137 , 94) hasta el punto (77 , 94)
+[ INFO] - :78 2022-05-02 10:25:00 - Se hizo una linea que desde el punto (77 , 94) hasta el punto (77 , 153)
+[ INFO] - :80 2022-05-02 10:25:00 - Se hizo una linea que desde el punto (77 , 153) hasta el punto (137 , 153)
+[ INFO] - :121 2022-05-02 10:25:06 - Se hizo click en la posicion: 237 , 170
+[ INFO] - :134 2022-05-02 10:25:07 - Se solto el click en la posicion: 292 , 200
+[ INFO] - :74 2022-05-02 10:25:07 - Se hizo una linea que desde el punto (292 , 200) hasta el punto (292 , 170)
+[ INFO] - :76 2022-05-02 10:25:07 - Se hizo una linea que desde el punto (292 , 170) hasta el punto (237 , 170)
+[ INFO] - :78 2022-05-02 10:25:07 - Se hizo una linea que desde el punto (237 , 170) hasta el punto (237 , 200)
+[ INFO] - :80 2022-05-02 10:25:07 - Se hizo una linea que desde el punto (237 , 200) hasta el punto (292 , 200)
+[DEBUG] - :52 2022-05-02 10:27:44 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :121 2022-05-02 10:27:45 - Se hizo click en la posicion: 173 , 135
+[ INFO] - :134 2022-05-02 10:27:46 - Se solto el click en la posicion: 251 , 196
+[ INFO] - :74 2022-05-02 10:27:46 - Se hizo una linea que desde el punto (251 , 196) hasta el punto (251 , 135)
+[ INFO] - :76 2022-05-02 10:27:46 - Se hizo una linea que desde el punto (251 , 135) hasta el punto (173 , 135)
+[ INFO] - :78 2022-05-02 10:27:46 - Se hizo una linea que desde el punto (173 , 135) hasta el punto (173 , 196)
+[ INFO] - :80 2022-05-02 10:27:46 - Se hizo una linea que desde el punto (173 , 196) hasta el punto (251 , 196)
+[DEBUG] - :52 2022-05-02 10:30:19 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :114 2022-05-02 10:30:20 - Se hizo click en la posicion: 162 , 148
+[ INFO] - :127 2022-05-02 10:30:22 - Se solto el click en la posicion: 226 , 204
+[ INFO] - :114 2022-05-02 10:30:31 - Se hizo click en la posicion: 226 , 95
+[ INFO] - :127 2022-05-02 10:30:32 - Se solto el click en la posicion: 280 , 127
+[ INFO] - :114 2022-05-02 10:30:47 - Se hizo click en la posicion: 61 , 96
+[ INFO] - :127 2022-05-02 10:30:48 - Se solto el click en la posicion: 127 , 144
+[ INFO] - :114 2022-05-02 10:31:16 - Se hizo click en la posicion: 148 , 148
+[ INFO] - :127 2022-05-02 10:31:18 - Se solto el click en la posicion: 229 , 192
+[ INFO] - :114 2022-05-02 10:32:05 - Se hizo click en la posicion: 9 , 55
+[ INFO] - :127 2022-05-02 10:32:08 - Se solto el click en la posicion: 44 , 78
+[DEBUG] - :52 2022-05-02 10:33:04 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :116 2022-05-02 10:33:05 - Se hizo click en la posicion: 112 , 132
+[ INFO] - :129 2022-05-02 10:33:06 - Se solto el click en la posicion: 165 , 173
+[DEBUG] - :52 2022-05-02 10:33:35 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :116 2022-05-02 10:33:36 - Se hizo click en la posicion: 119 , 122
+[ INFO] - :129 2022-05-02 10:33:37 - Se solto el click en la posicion: 163 , 164
+[ INFO] - :116 2022-05-02 10:33:42 - Se hizo click en la posicion: 42 , 94
+[ INFO] - :129 2022-05-02 10:33:42 - Se solto el click en la posicion: 122 , 141
+[DEBUG] - :52 2022-05-02 10:36:53 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :52 2022-05-02 10:37:20 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :113 2022-05-02 10:37:23 - Se hizo click en la posicion: 156 , 123
+[ INFO] - :126 2022-05-02 10:37:23 - Se solto el click en la posicion: 212 , 167
+[DEBUG] - :52 2022-05-02 10:40:06 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :111 2022-05-02 10:40:10 - Se hizo click en la posicion: 164 , 158
+[ INFO] - :124 2022-05-02 10:40:11 - Se solto el click en la posicion: 227 , 207
+[DEBUG] - :52 2022-05-02 10:41:27 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :111 2022-05-02 10:41:27 - Se hizo click en la posicion: 110 , 130
+[ INFO] - :124 2022-05-02 10:41:28 - Se solto el click en la posicion: 169 , 188
+[ INFO] - :111 2022-05-02 10:41:32 - Se hizo click en la posicion: 276 , 129
+[ INFO] - :124 2022-05-02 10:41:33 - Se solto el click en la posicion: 331 , 177
+[ INFO] - :111 2022-05-02 10:41:35 - Se hizo click en la posicion: 62 , 118
+[ INFO] - :124 2022-05-02 10:41:36 - Se solto el click en la posicion: 148 , 180
+[ INFO] - :111 2022-05-02 10:41:37 - Se hizo click en la posicion: 270 , 192
+[ INFO] - :124 2022-05-02 10:41:38 - Se solto el click en la posicion: 333 , 253
+[ INFO] - :111 2022-05-02 10:41:40 - Se hizo click en la posicion: 161 , 100
+[ INFO] - :124 2022-05-02 10:41:41 - Se solto el click en la posicion: 191 , 117
+[ INFO] - :111 2022-05-02 10:41:42 - Se hizo click en la posicion: 253 , 109
+[ INFO] - :124 2022-05-02 10:41:42 - Se solto el click en la posicion: 313 , 148
+[ INFO] - :111 2022-05-02 10:41:43 - Se hizo click en la posicion: 124 , 88
+[ INFO] - :124 2022-05-02 10:41:44 - Se solto el click en la posicion: 146 , 106
+[DEBUG] - :52 2022-05-02 10:42:05 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :111 2022-05-02 10:42:06 - Se hizo click en la posicion: 122 , 149
+[ INFO] - :124 2022-05-02 10:42:06 - Se solto el click en la posicion: 166 , 191
+[DEBUG] - :52 2022-05-02 10:44:18 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :111 2022-05-02 10:44:19 - Se hizo click en la posicion: 131 , 126
+[ INFO] - :124 2022-05-02 10:44:20 - Se solto el click en la posicion: 205 , 198
+[ INFO] - :111 2022-05-02 10:44:24 - Se hizo click en la posicion: 191 , 120
+[ INFO] - :124 2022-05-02 10:44:24 - Se solto el click en la posicion: 358 , 219
+[DEBUG] - :52 2022-05-02 10:45:09 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :111 2022-05-02 10:45:10 - Se hizo click en la posicion: 125 , 138
+[ INFO] - :124 2022-05-02 10:45:11 - Se solto el click en la posicion: 181 , 188
+[ INFO] - :111 2022-05-02 10:45:12 - Se hizo click en la posicion: 222 , 110
+[ INFO] - :124 2022-05-02 10:45:12 - Se solto el click en la posicion: 366 , 190
+[ INFO] - :111 2022-05-02 10:45:14 - Se hizo click en la posicion: 42 , 100
+[ INFO] - :124 2022-05-02 10:45:14 - Se solto el click en la posicion: 190 , 185
+[DEBUG] - :52 2022-05-02 11:12:39 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :109 2022-05-02 11:12:41 - Se hizo click en la posicion: 204 , 145
+[ INFO] - :122 2022-05-02 11:12:42 - Se solto el click en la posicion: 279 , 196
+[ INFO] - :109 2022-05-02 11:12:48 - Se hizo click en la posicion: 291 , 95
+[ INFO] - :122 2022-05-02 11:12:49 - Se solto el click en la posicion: 416 , 154
+[ INFO] - :109 2022-05-02 11:13:37 - Se hizo click en la posicion: 119 , 113
+[ INFO] - :122 2022-05-02 11:13:38 - Se solto el click en la posicion: 177 , 139
+[ INFO] - :109 2022-05-02 11:14:06 - Se hizo click en la posicion: 431 , 316
+[ INFO] - :122 2022-05-02 11:14:08 - Se solto el click en la posicion: 517 , 397
+[ INFO] - :109 2022-05-02 11:14:37 - Se hizo click en la posicion: 400 , 296
+[ INFO] - :122 2022-05-02 11:14:37 - Se solto el click en la posicion: 543 , 407
+[DEBUG] - :53 2022-05-02 11:35:57 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 11:35:58 - Se hizo click en la posicion: 185 , 147
+[ INFO] - :120 2022-05-02 11:35:59 - Se solto el click en la posicion: 232 , 186
+[DEBUG] - :53 2022-05-02 11:38:17 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 11:38:18 - Se hizo click en la posicion: 198 , 142
+[ INFO] - :120 2022-05-02 11:38:18 - Se solto el click en la posicion: 247 , 185
+[ INFO] - :107 2022-05-02 11:38:36 - Se hizo click en la posicion: 294 , 110
+[ INFO] - :120 2022-05-02 11:38:36 - Se solto el click en la posicion: 365 , 169
+[DEBUG] - :53 2022-05-02 13:28:01 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 13:28:02 - Se hizo click en la posicion: 279 , 169
+[ INFO] - :120 2022-05-02 13:28:02 - Se solto el click en la posicion: 278 , 169
+[ INFO] - :107 2022-05-02 13:28:05 - Se hizo click en la posicion: 188 , 139
+[ INFO] - :120 2022-05-02 13:28:06 - Se solto el click en la posicion: 281 , 205
+[ INFO] - :107 2022-05-02 13:28:13 - Se hizo click en la posicion: 241 , 102
+[ INFO] - :120 2022-05-02 13:28:13 - Se solto el click en la posicion: 318 , 138
+[DEBUG] - :53 2022-05-02 13:56:55 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 13:56:57 - Se hizo click en la posicion: 102 , 98
+[ INFO] - :120 2022-05-02 13:56:58 - Se solto el click en la posicion: 159 , 149
+[ INFO] - :107 2022-05-02 13:57:10 - Se hizo click en la posicion: 217 , 82
+[ INFO] - :120 2022-05-02 13:57:11 - Se solto el click en la posicion: 380 , 198
+[ INFO] - :107 2022-05-02 13:57:17 - Se hizo click en la posicion: 35 , 72
+[ INFO] - :120 2022-05-02 13:57:18 - Se solto el click en la posicion: 113 , 129
+[ INFO] - :107 2022-05-02 13:57:21 - Se hizo click en la posicion: 214 , 69
+[ INFO] - :120 2022-05-02 13:57:22 - Se solto el click en la posicion: 307 , 104
+[ INFO] - :107 2022-05-02 13:57:27 - Se hizo click en la posicion: 417 , 265
+[ INFO] - :120 2022-05-02 13:57:28 - Se solto el click en la posicion: 451 , 284
+[DEBUG] - :53 2022-05-02 14:10:01 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 14:10:02 - Se hizo click en la posicion: 176 , 141
+[ INFO] - :120 2022-05-02 14:10:03 - Se solto el click en la posicion: 278 , 230
+[DEBUG] - :53 2022-05-02 14:11:30 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :107 2022-05-02 14:11:32 - Se hizo click en la posicion: 116 , 123
+[ INFO] - :120 2022-05-02 14:11:32 - Se solto el click en la posicion: 276 , 215
+[ INFO] - :107 2022-05-02 14:11:51 - Se hizo click en la posicion: 310 , 89
+[ INFO] - :120 2022-05-02 14:11:52 - Se solto el click en la posicion: 408 , 151
+[DEBUG] - :55 2022-05-02 14:25:07 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :55 2022-05-02 14:25:34 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 14:25:35 - Se hizo click en la posicion: 106 , 101
+[ INFO] - :87 2022-05-02 14:25:36 - Se solto el click en la posicion: 851 , 177
+[DEBUG] - :55 2022-05-02 14:26:20 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 14:26:21 - Se hizo click en la posicion: 185 , 148
+[ INFO] - :87 2022-05-02 14:26:22 - Se solto el click en la posicion: 240 , 195
+[ INFO] - :77 2022-05-02 14:26:25 - Se hizo click en la posicion: 68 , 75
+[ INFO] - :87 2022-05-02 14:26:26 - Se solto el click en la posicion: 173 , 139
+[ INFO] - :77 2022-05-02 14:26:29 - Se hizo click en la posicion: 195 , 96
+[ INFO] - :87 2022-05-02 14:26:30 - Se solto el click en la posicion: 283 , 161
+[ INFO] - :77 2022-05-02 14:26:32 - Se hizo click en la posicion: 114 , 91
+[ INFO] - :87 2022-05-02 14:26:33 - Se solto el click en la posicion: 201 , 158
+[ INFO] - :77 2022-05-02 14:26:41 - Se hizo click en la posicion: 284 , 134
+[ INFO] - :87 2022-05-02 14:26:42 - Se solto el click en la posicion: 350 , 170
+[ INFO] - :77 2022-05-02 14:26:45 - Se hizo click en la posicion: 222 , 131
+[ INFO] - :87 2022-05-02 14:26:46 - Se solto el click en la posicion: 248 , 144
+[ INFO] - :77 2022-05-02 14:26:54 - Se hizo click en la posicion: 9 , 58
+[ INFO] - :87 2022-05-02 14:26:56 - Se solto el click en la posicion: 42 , 71
+[DEBUG] - :55 2022-05-02 16:45:33 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:45:34 - Se hizo click en la posicion: 158 , 129
+[ INFO] - :87 2022-05-02 16:45:35 - Se solto el click en la posicion: 216 , 177
+[ INFO] - :77 2022-05-02 16:45:39 - Se hizo click en la posicion: 144 , 120
+[ INFO] - :87 2022-05-02 16:45:40 - Se solto el click en la posicion: 246 , 186
+[DEBUG] - :55 2022-05-02 16:45:59 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:46:00 - Se hizo click en la posicion: 197 , 129
+[ INFO] - :87 2022-05-02 16:46:01 - Se solto el click en la posicion: 265 , 197
+[DEBUG] - :55 2022-05-02 16:46:36 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:46:37 - Se hizo click en la posicion: 192 , 135
+[ INFO] - :87 2022-05-02 16:46:37 - Se solto el click en la posicion: 247 , 176
+[ INFO] - :77 2022-05-02 16:46:43 - Se hizo click en la posicion: 165 , 103
+[ INFO] - :87 2022-05-02 16:46:43 - Se solto el click en la posicion: 294 , 175
+[DEBUG] - :55 2022-05-02 16:48:07 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:48:08 - Se hizo click en la posicion: 191 , 111
+[ INFO] - :87 2022-05-02 16:48:08 - Se solto el click en la posicion: 242 , 146
+[DEBUG] - :55 2022-05-02 16:48:16 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:48:17 - Se hizo click en la posicion: 172 , 127
+[ INFO] - :87 2022-05-02 16:48:19 - Se solto el click en la posicion: 240 , 180
+[DEBUG] - :55 2022-05-02 16:48:47 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:48:49 - Se hizo click en la posicion: 177 , 141
+[ INFO] - :87 2022-05-02 16:48:49 - Se solto el click en la posicion: 240 , 194
+[DEBUG] - :55 2022-05-02 16:49:09 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :77 2022-05-02 16:49:10 - Se hizo click en la posicion: 183 , 133
+[ INFO] - :87 2022-05-02 16:49:10 - Se solto el click en la posicion: 232 , 187
+[DEBUG] - :55 2022-05-02 16:50:20 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:50:20 - Se hizo click en la posicion: 134 , 131
+[ INFO] - :143 2022-05-02 16:50:21 - Se solto el click en la posicion: 196 , 182
+[DEBUG] - :55 2022-05-02 16:50:48 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:50:49 - Se hizo click en la posicion: 155 , 106
+[ INFO] - :143 2022-05-02 16:50:49 - Se solto el click en la posicion: 240 , 154
+[DEBUG] - :55 2022-05-02 16:52:11 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:52:12 - Se hizo click en la posicion: 159 , 157
+[ INFO] - :143 2022-05-02 16:52:13 - Se solto el click en la posicion: 219 , 198
+[DEBUG] - :55 2022-05-02 16:52:59 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:53:00 - Se hizo click en la posicion: 149 , 135
+[ INFO] - :143 2022-05-02 16:53:01 - Se solto el click en la posicion: 242 , 183
+[ INFO] - :130 2022-05-02 16:53:24 - Se hizo click en la posicion: 308 , 116
+[ INFO] - :143 2022-05-02 16:53:24 - Se solto el click en la posicion: 380 , 163
+[DEBUG] - :55 2022-05-02 16:54:16 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:54:19 - Se hizo click en la posicion: 275 , 122
+[ INFO] - :143 2022-05-02 16:54:20 - Se solto el click en la posicion: 365 , 170
+[DEBUG] - :55 2022-05-02 16:55:15 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:55:17 - Se hizo click en la posicion: 248 , 171
+[ INFO] - :143 2022-05-02 16:55:17 - Se solto el click en la posicion: 320 , 230
+[DEBUG] - :55 2022-05-02 16:56:03 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :130 2022-05-02 16:56:04 - Se hizo click en la posicion: 254 , 154
+[ INFO] - :143 2022-05-02 16:56:04 - Se solto el click en la posicion: 310 , 193
+[ INFO] - :130 2022-05-02 16:56:23 - Se hizo click en la posicion: 93 , 107
+[ INFO] - :143 2022-05-02 16:56:24 - Se solto el click en la posicion: 151 , 147
+[DEBUG] - :55 2022-05-02 16:59:12 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :131 2022-05-02 16:59:13 - Se hizo click en la posicion: 195 , 130
+[ INFO] - :144 2022-05-02 16:59:14 - Se solto el click en la posicion: 270 , 197
+[ INFO] - :131 2022-05-02 16:59:17 - Se hizo click en la posicion: 275 , 96
+[ INFO] - :144 2022-05-02 16:59:18 - Se solto el click en la posicion: 305 , 124
+[ INFO] - :131 2022-05-02 16:59:20 - Se hizo click en la posicion: 89 , 107
+[ INFO] - :144 2022-05-02 16:59:21 - Se solto el click en la posicion: 125 , 149
+[ INFO] - :131 2022-05-02 16:59:22 - Se hizo click en la posicion: 321 , 98
+[ INFO] - :144 2022-05-02 16:59:23 - Se solto el click en la posicion: 367 , 139
+[ INFO] - :131 2022-05-02 16:59:29 - Se hizo click en la posicion: 172 , 268
+[ INFO] - :144 2022-05-02 16:59:30 - Se solto el click en la posicion: 235 , 301
+[ INFO] - :131 2022-05-02 16:59:44 - Se hizo click en la posicion: 81 , 144
+[ INFO] - :144 2022-05-02 16:59:45 - Se solto el click en la posicion: 112 , 190
+[ INFO] - :131 2022-05-02 17:00:00 - Se hizo click en la posicion: 246 , 119
+[ INFO] - :144 2022-05-02 17:00:00 - Se solto el click en la posicion: 273 , 136
+[ INFO] - :131 2022-05-02 17:00:12 - Se hizo click en la posicion: 332 , 105
+[ INFO] - :144 2022-05-02 17:00:12 - Se solto el click en la posicion: 398 , 154
+[ INFO] - :131 2022-05-02 17:00:22 - Se hizo click en la posicion: 398 , 272
+[ INFO] - :144 2022-05-02 17:00:22 - Se solto el click en la posicion: 398 , 273
+[DEBUG] - :55 2022-05-02 17:09:34 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :132 2022-05-02 17:09:35 - Se hizo click en la posicion: 168 , 124
+[ INFO] - :145 2022-05-02 17:09:35 - Se solto el click en la posicion: 209 , 159
+[ INFO] - :132 2022-05-02 17:09:38 - Se hizo click en la posicion: 301 , 160
+[ INFO] - :145 2022-05-02 17:09:39 - Se solto el click en la posicion: 352 , 203
+[ INFO] - :132 2022-05-02 17:09:42 - Se hizo click en la posicion: 269 , 89
+[ INFO] - :145 2022-05-02 17:09:43 - Se solto el click en la posicion: 315 , 119
+[DEBUG] - :55 2022-05-02 17:43:01 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :137 2022-05-02 17:43:02 - Se hizo click en la posicion: 218 , 129
+[ INFO] - :150 2022-05-02 17:43:03 - Se solto el click en la posicion: 277 , 169
+[DEBUG] - :55 2022-05-02 17:44:17 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :129 2022-05-02 17:44:18 - Se hizo click en la posicion: 100 , 150
+[ INFO] - :142 2022-05-02 17:44:18 - Se solto el click en la posicion: 170 , 204
+[ INFO] - :129 2022-05-02 17:44:20 - Se hizo click en la posicion: 208 , 143
+[ INFO] - :142 2022-05-02 17:44:20 - Se solto el click en la posicion: 274 , 200
+[DEBUG] - :55 2022-05-02 17:44:54 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :129 2022-05-02 17:44:55 - Se hizo click en la posicion: 434 , 274
+[ INFO] - :142 2022-05-02 17:44:55 - Se solto el click en la posicion: 270 , 178
+[ INFO] - :129 2022-05-02 17:44:58 - Se hizo click en la posicion: 387 , 254
+[ INFO] - :142 2022-05-02 17:44:58 - Se solto el click en la posicion: 200 , 186
+[DEBUG] - :53 2022-05-02 18:25:35 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :137 2022-05-02 18:25:36 - Se hizo click en la posicion: 147 , 118
+[ INFO] - :150 2022-05-02 18:25:37 - Se solto el click en la posicion: 193 , 154
+[ INFO] - :137 2022-05-02 18:25:38 - Se hizo click en la posicion: 407 , 217
+[ INFO] - :150 2022-05-02 18:25:39 - Se solto el click en la posicion: 309 , 147
+[ INFO] - :137 2022-05-02 18:25:44 - Se hizo click en la posicion: 236 , 135
+[ INFO] - :150 2022-05-02 18:25:45 - Se solto el click en la posicion: 169 , 177
+[ INFO] - :137 2022-05-02 18:25:49 - Se hizo click en la posicion: 312 , 185
+[ INFO] - :150 2022-05-02 18:25:50 - Se solto el click en la posicion: 168 , 230
+[DEBUG] - :53 2022-05-02 18:27:00 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :137 2022-05-02 18:27:07 - Se hizo click en la posicion: 172 , 149
+[ INFO] - :150 2022-05-02 18:27:08 - Se solto el click en la posicion: 214 , 182
+[ INFO] - :137 2022-05-02 18:27:29 - Se hizo click en la posicion: 285 , 173
+[ INFO] - :150 2022-05-02 18:27:30 - Se solto el click en la posicion: 345 , 100
+[DEBUG] - :53 2022-05-02 18:30:22 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :140 2022-05-02 18:30:23 - Se hizo click en la posicion: 214 , 149
+[ INFO] - :153 2022-05-02 18:30:23 - Se solto el click en la posicion: 279 , 206
+[ INFO] - :140 2022-05-02 18:30:25 - Se hizo click en la posicion: 438 , 183
+[ INFO] - :153 2022-05-02 18:30:25 - Se solto el click en la posicion: 348 , 127
+[ INFO] - :140 2022-05-02 18:30:28 - Se hizo click en la posicion: 146 , 160
+[ INFO] - :153 2022-05-02 18:30:28 - Se solto el click en la posicion: 305 , 80
+[ INFO] - :140 2022-05-02 18:30:32 - Se hizo click en la posicion: 120 , 225
+[ INFO] - :153 2022-05-02 18:30:33 - Se solto el click en la posicion: 153 , 256
+[ INFO] - :140 2022-05-02 18:30:38 - Se hizo click en la posicion: 231 , 135
+[ INFO] - :153 2022-05-02 18:30:39 - Se solto el click en la posicion: 284 , 162
+[ INFO] - :140 2022-05-02 18:30:45 - Se hizo click en la posicion: 223 , 120
+[ INFO] - :153 2022-05-02 18:30:46 - Se solto el click en la posicion: 253 , 154
+[ INFO] - :140 2022-05-02 18:31:05 - Se hizo click en la posicion: 307 , 158
+[ INFO] - :153 2022-05-02 18:31:05 - Se solto el click en la posicion: 351 , 186
+[ INFO] - :140 2022-05-02 18:31:10 - Se hizo click en la posicion: 294 , 104
+[ INFO] - :153 2022-05-02 18:31:10 - Se solto el click en la posicion: 396 , 160
+[ INFO] - :140 2022-05-02 18:31:15 - Se hizo click en la posicion: 79 , 183
+[ INFO] - :153 2022-05-02 18:31:16 - Se solto el click en la posicion: 136 , 227
+[ INFO] - :140 2022-05-02 18:31:18 - Se hizo click en la posicion: 199 , 273
+[ INFO] - :153 2022-05-02 18:31:19 - Se solto el click en la posicion: 303 , 310
+[ INFO] - :140 2022-05-02 18:31:20 - Se hizo click en la posicion: 224 , 224
+[ INFO] - :153 2022-05-02 18:31:20 - Se solto el click en la posicion: 281 , 260
+[ INFO] - :140 2022-05-02 18:31:28 - Se hizo click en la posicion: 70 , 84
+[ INFO] - :153 2022-05-02 18:31:29 - Se solto el click en la posicion: 125 , 119
+[ INFO] - :140 2022-05-02 18:31:55 - Se hizo click en la posicion: 305 , 93
+[ INFO] - :153 2022-05-02 18:31:55 - Se solto el click en la posicion: 305 , 93
+[ INFO] - :140 2022-05-02 18:31:59 - Se hizo click en la posicion: 198 , 83
+[ INFO] - :153 2022-05-02 18:32:00 - Se solto el click en la posicion: 242 , 100
+[DEBUG] - :53 2022-05-02 18:53:33 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 18:53:34 - Se hizo click en la posicion: 294 , 131
+[ INFO] - :160 2022-05-02 18:53:35 - Se solto el click en la posicion: 540 , 336
+[DEBUG] - :53 2022-05-02 18:57:08 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :54 2022-05-02 18:57:36 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 18:57:38 - Se hizo click en la posicion: 296 , 173
+[ INFO] - :160 2022-05-02 18:57:39 - Se solto el click en la posicion: 503 , 324
+[DEBUG] - :55 2022-05-02 18:59:41 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 18:59:43 - Se hizo click en la posicion: 314 , 203
+[ INFO] - :160 2022-05-02 18:59:43 - Se solto el click en la posicion: 493 , 318
+[DEBUG] - :56 2022-05-02 19:01:06 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 19:01:07 - Se hizo click en la posicion: 294 , 183
+[ INFO] - :160 2022-05-02 19:01:08 - Se solto el click en la posicion: 502 , 335
+[DEBUG] - :56 2022-05-02 19:10:15 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 19:10:16 - Se hizo click en la posicion: 161 , 117
+[ INFO] - :160 2022-05-02 19:10:17 - Se solto el click en la posicion: 211 , 161
+[DEBUG] - :56 2022-05-02 19:12:09 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :147 2022-05-02 19:12:10 - Se hizo click en la posicion: 229 , 135
+[ INFO] - :160 2022-05-02 19:12:11 - Se solto el click en la posicion: 261 , 165
+[DEBUG] - :56 2022-05-02 19:22:11 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :146 2022-05-02 19:22:12 - Se hizo click en la posicion: 162 , 116
+[ INFO] - :164 2022-05-02 19:22:12 - Se solto el click en la posicion: 210 , 148
+[ INFO] - :146 2022-05-02 19:22:16 - Se hizo click en la posicion: 174 , 109
+[ INFO] - :164 2022-05-02 19:22:17 - Se solto el click en la posicion: 256 , 146
+[ INFO] - :146 2022-05-02 19:22:24 - Se hizo click en la posicion: 149 , 126
+[ INFO] - :164 2022-05-02 19:22:28 - Se solto el click en la posicion: 243 , 207
+[DEBUG] - :56 2022-05-02 19:23:12 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :165 2022-05-02 19:23:16 - Se solto el click en la posicion: 200 , 166
+[DEBUG] - :56 2022-05-02 19:24:12 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :149 2022-05-02 19:24:13 - Se hizo click en la posicion: 210 , 145
+[ INFO] - :167 2022-05-02 19:24:14 - Se solto el click en la posicion: 260 , 174
+[ INFO] - :149 2022-05-02 19:24:16 - Se hizo click en la posicion: 173 , 111
+[ INFO] - :167 2022-05-02 19:24:17 - Se solto el click en la posicion: 265 , 148
+[ INFO] - :149 2022-05-02 19:24:25 - Se hizo click en la posicion: 320 , 132
+[ INFO] - :167 2022-05-02 19:24:26 - Se solto el click en la posicion: 382 , 177
+[ INFO] - :149 2022-05-02 19:24:31 - Se hizo click en la posicion: 56 , 84
+[ INFO] - :167 2022-05-02 19:24:32 - Se solto el click en la posicion: 114 , 117
+[ INFO] - :149 2022-05-02 19:24:51 - Se hizo click en la posicion: 227 , 84
+[ INFO] - :167 2022-05-02 19:24:51 - Se solto el click en la posicion: 252 , 105
+[DEBUG] - :56 2022-05-02 19:25:47 - Las para el frame dimensiones son: 2560 de ancho y 1440 de alto
+[ INFO] - :149 2022-05-02 19:25:58 - Se hizo click en la posicion: 213 , 164
+[ INFO] - :167 2022-05-02 19:25:59 - Se solto el click en la posicion: 439 , 288
+[ INFO] - :149 2022-05-02 19:26:32 - Se hizo click en la posicion: 1171 , 345
+[ INFO] - :167 2022-05-02 19:26:32 - Se solto el click en la posicion: 1437 , 540
+[ INFO] - :149 2022-05-02 19:26:51 - Se hizo click en la posicion: 373 , 561
+[ INFO] - :167 2022-05-02 19:26:51 - Se solto el click en la posicion: 649 , 748
+[ INFO] - :149 2022-05-02 19:26:56 - Se hizo click en la posicion: 1284 , 649
+[ INFO] - :167 2022-05-02 19:26:57 - Se solto el click en la posicion: 1368 , 718
+[DEBUG] - :56 2022-05-02 19:27:54 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :56 2022-05-02 19:28:17 - Las para el frame dimensiones son: 256 de ancho y 256 de alto
+[DEBUG] - :55 2022-05-02 20:11:03 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :149 2022-05-02 20:11:16 - Se hizo click en la posicion: 161 , 111
+[ INFO] - :169 2022-05-02 20:11:18 - Se solto el click en la posicion: 240 , 179
+[ INFO] - :149 2022-05-02 20:11:31 - Se hizo click en la posicion: 305 , 107
+[ INFO] - :169 2022-05-02 20:11:35 - Se solto el click en la posicion: 365 , 160
+[ INFO] - :149 2022-05-02 20:12:08 - Se hizo click en la posicion: 282 , 97
+[ INFO] - :169 2022-05-02 20:12:15 - Se solto el click en la posicion: 360 , 152
+[ INFO] - :149 2022-05-02 20:12:58 - Se hizo click en la posicion: 206 , 99
+[ INFO] - :169 2022-05-02 20:12:59 - Se solto el click en la posicion: 334 , 164
+[ INFO] - :149 2022-05-02 20:13:08 - Se hizo click en la posicion: 9 , 56
+[ INFO] - :169 2022-05-02 20:13:13 - Se solto el click en la posicion: 435 , 295
+[ INFO] - :149 2022-05-02 20:13:40 - Se hizo click en la posicion: 8 , 55
+[ INFO] - :169 2022-05-02 20:13:44 - Se solto el click en la posicion: 157 , 129
+[ INFO] - :149 2022-05-02 20:15:10 - Se hizo click en la posicion: 9 , 55
+[ INFO] - :169 2022-05-02 20:15:12 - Se solto el click en la posicion: 68 , 90
+[DEBUG] - :55 2022-05-02 20:16:49 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :152 2022-05-02 20:16:50 - Se hizo click en la posicion: 102 , 51
+[ INFO] - :172 2022-05-02 20:16:53 - Se solto el click en la posicion: 177 , 105
+[ INFO] - :152 2022-05-02 20:17:04 - Se hizo click en la posicion: 254 , 59
+[ INFO] - :172 2022-05-02 20:17:05 - Se solto el click en la posicion: 321 , 101
+[ INFO] - :152 2022-05-02 20:27:41 - Se hizo click en la posicion: 495 , -11
+[ INFO] - :172 2022-05-02 20:27:41 - Se solto el click en la posicion: 495 , -11
+[DEBUG] - :55 2022-05-02 20:28:58 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[ INFO] - :152 2022-05-02 20:29:00 - Se hizo click en la posicion: 128 , 95
+[ INFO] - :172 2022-05-02 20:29:00 - Se solto el click en la posicion: 286 , 172
+[DEBUG] - :55 2022-05-02 20:35:21 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :55 2022-05-02 20:49:33 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
+[DEBUG] - :55 2022-05-02 20:50:03 - Las para el frame dimensiones son: 500 de ancho y 334 de alto
